@@ -1,0 +1,4 @@
+﻿  Node.cpp
+c:\users\jorge\desktop\dispatch_project_404\dispatch_project_404\dispatch_project_404\node.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\jorge\desktop\dispatch_project_404\dispatch_project_404\dispatch_project_404\node.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  Dispatch_Project_404.vcxproj -> C:\Users\Jorge\Desktop\Dispatch_Project_404\Dispatch_Project_404\Debug\Dispatch_Project_404.exe
